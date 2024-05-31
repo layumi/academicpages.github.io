@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/academicpages/academicpages.github.io",
   "engines": {
-    "node": ">= 20.x"
+    "node": ">= 18.x"
   },
   "dependencies": {
     "jquery": "^3.7.1"
